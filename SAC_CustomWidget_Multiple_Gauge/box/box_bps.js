@@ -51,6 +51,3 @@
 
 	customElements.define("com-demo-box-bps", BoxBps);
 })();
-
-
-//test isto tem que passar para o Github
